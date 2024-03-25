@@ -1,9 +1,10 @@
 # **자기소개**
 
 
-|제목|내용|
+|제목&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|내용|
 | --- |:--------------------:|
-|이름|Yukise<br />유키세|
+|닉네임|Yukise<br />(유키세)|
+
 |직업||
 |소속||
 |SNS||
