@@ -7,4 +7,4 @@
 |**직업**|대학생|
 |**소속/출신**|홍익대학교(Hongik Univ.)<br />GDSC Hongik|
 |**SNS**|Discord(업무용)(링크 첨부 예정)|
-|**참고**|Python 공부중|
+|**참고**|Python 공부중| 
